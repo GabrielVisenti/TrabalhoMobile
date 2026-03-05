@@ -1,3 +1,26 @@
+Esse projeto foi desenvolvido uma calculadora inspirada no layout do iphone (ios), feito em react native, a calculado permite em realizar operações matemáticas básicas de forma simples e intuitiva. O foco principal do projeto é aplicar conceitos de programação mobile, manipulação de estados em React, criação de componentes reutilizáveis e organização de interface utilizando Flexbox.
+
+Funcionalidades:
+
+Inserção de números
+Operação de adição (+)
+Operação de subtração (-)
+Operação de multiplicação (*)
+Operação de divisão(/)
+Operação com porcentagem (%)
+Botão para apagar o último número
+Exibição do resultado da operação
+
+
+Funções Principais:
+
+Adicionar()
+EscolherOperação()
+Calcular()
+Limpar()
+Apagar()
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
